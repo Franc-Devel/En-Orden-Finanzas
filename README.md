@@ -1,5 +1,11 @@
 # En Orden Finanzas
 
+![Portada conceptual ilustrativa de En-Orden-Finanzas; no es una captura real. Cifras, pantallas y módulos ficticios.](assets/covers/cover.png)
+
+> **Ilustración conceptual · No es una captura de una aplicación real.** Las cifras, métricas, pantallas y módulos del mockup son ficticios y no acreditan funcionalidades, resultados ni garantías. Los textos sobre protección de datos, autenticación, infraestructura y «demo segura» son parte del concepto visual; no constituyen garantías de seguridad ni una auditoría. Los paneles de Telegram, OCR, agenda y metas no son capturas de la aplicación.
+>
+> **Concept artwork · Not an actual application screenshot.** Figures, metrics, screens and modules are fictional; they do not substantiate implemented features, measured results or security guarantees. Refer to the documentation below for the project’s actual scope.
+
 **Finanzas personales y compartidas, con automatización e IA aplicada.**  
 Desarrollado por [Francisco Agustín Delgado](https://github.com/Franc-Devel).
 
