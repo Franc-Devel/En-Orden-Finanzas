@@ -6,6 +6,8 @@
 >
 > **Concept artwork · Not an actual application screenshot.** Figures, metrics, screens and modules are fictional; they do not substantiate implemented features, measured results or security guarantees. Refer to the documentation below for the project’s actual scope.
 
+[Portada para Social Preview · 1280×640](assets/covers/cover-social.jpg) · Ilustración conceptual, no captura real.
+
 **Finanzas personales y compartidas, con automatización e IA aplicada.**  
 Desarrollado por [Francisco Agustín Delgado](https://github.com/Franc-Devel).
 
@@ -34,7 +36,7 @@ JavaScript · HTML · CSS · runtime compatible con Cloudflare Workers · D1/SQL
 
 El código usa un binding de almacenamiento de objetos para comprobantes; no se publica su configuración de producción. La interfaz es JavaScript sin un framework de componentes. Node.js se usa para herramientas de construcción y pruebas.
 
-### Demostración segura
+### Demostración con datos sintéticos
 
 Abrí [demo/index.html](demo/index.html) después de descargar el repositorio. Funciona localmente sin instalación. Filtrá categorías y compará el total de gastos ficticios. Todos los importes y etiquetas fueron inventados para esta presentación.
 
@@ -71,7 +73,7 @@ JavaScript · HTML · CSS · Cloudflare Workers-compatible runtime · D1/SQLite 
 
 Receipts use an object-storage binding; production configuration is excluded. The interface uses JavaScript without a component framework. Node.js supports build tools and tests.
 
-### Safe demo
+### Synthetic-data demo
 
 Download this repository and open [demo/index.html](demo/index.html). Filter categories and compare fictional expense totals. Every amount and label was invented for this showcase.
 
