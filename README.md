@@ -82,3 +82,12 @@ Download this repository and open [demo/index.html](demo/index.html). Filter cat
 The demo covers only an expense summary and category filter. Authentication, payments, receipts, AI, and Telegram are not implemented in the demo. It makes no network requests, stores no data, accepts no uploads, and needs no keys or accounts.
 
 See the bilingual [architecture](docs/ARCHITECTURE.md), [feature evidence](docs/FEATURES.md), and [privacy notes](docs/PRIVACY.md).
+
+## Identidad FAUVOR y documentación actual
+
+**FAUVOR Finanzas** forma parte del catálogo de seis productos FAUVOR. Finanzas personales y compartidas.
+
+- [Identidad, ejecución, validación y límites](docs/FAUVOR.md)
+- [FAUVOR Flow: automatizaciones para negocios](https://github.com/Franc-Devel/system-flow)
+
+La portada es conceptual. Las capacidades reales y las diferencias respecto de las demos se detallan en la documentación vinculada.
